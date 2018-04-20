@@ -19,7 +19,7 @@ $disallowed_extensions = [];  // must be an array. Extensions disallowed to be u
 
 $hidden_extensions = []; // must be an array of lowercase file extensions. Extensions hidden in directory index
 
-$PASSWORD = '123458';  // Set the password, to access the file manager... (optional)
+$PASSWORD = '123459';  // Set the password, to access the file manager... (optional)
 
 if($PASSWORD) {
 
